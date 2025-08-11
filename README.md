@@ -34,5 +34,7 @@ An SAP Fiori application.
 1. Active NodeJS LTS (Long Term Support) version and associated supported NPM version.  (See https://nodejs.org)
 
 ### Add short messages here
-laagozar: Hello everyone. Wishing us all good luck.  
-eeje: This is my change.
+laagozar: Hello everyone. Wishing us all good luck.
+eeje: This is my change (recommit to be merged by group leader).
+dave_sanz: Updated Read_me file per activity
+
