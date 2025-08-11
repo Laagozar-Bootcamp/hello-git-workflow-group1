@@ -36,3 +36,4 @@ An SAP Fiori application.
 ### Add short messages here
 laagozar: Hello everyone. Wishing us all good luck.
 eeje: This is my change.
+dave_sanz: Updated Read_me file per activity
