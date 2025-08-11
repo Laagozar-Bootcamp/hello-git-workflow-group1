@@ -35,5 +35,6 @@ An SAP Fiori application.
 
 ### Add short messages here
 laagozar: Hello everyone. Wishing us all good luck.
-eeje: This is my change.
+eeje: This is my change (recommit to be merged by group leader).
 dave_sanz: Updated Read_me file per activity
+
